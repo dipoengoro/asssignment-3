@@ -1,0 +1,9 @@
+main {
+    width: 15%;
+    margin: auto;
+}
+
+main h1,
+main p {
+    text-align: center;
+}
